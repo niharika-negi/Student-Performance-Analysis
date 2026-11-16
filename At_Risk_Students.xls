@@ -1,0 +1,31 @@
+gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score,total_score,average_score,performance
+female,group B,some high school,free/reduced,none,18,32,28,78,26.0,Needs Improvement
+female,group C,high school,free/reduced,none,33,41,43,117,39.0,Needs Improvement
+female,group C,some high school,free/reduced,none,0,17,10,27,9.0,Needs Improvement
+male,group A,some high school,free/reduced,none,39,39,34,112,37.333333333333336,Needs Improvement
+male,group D,some high school,free/reduced,none,45,37,37,119,39.666666666666664,Needs Improvement
+male,group E,some high school,standard,none,30,26,22,78,26.0,Needs Improvement
+male,group D,high school,free/reduced,none,42,39,34,115,38.333333333333336,Needs Improvement
+male,group C,high school,free/reduced,none,27,34,36,97,32.333333333333336,Needs Improvement
+female,group C,some college,free/reduced,none,22,39,33,94,31.333333333333332,Needs Improvement
+male,group C,some college,free/reduced,none,35,28,27,90,30.0,Needs Improvement
+female,group C,high school,free/reduced,none,34,42,39,115,38.333333333333336,Needs Improvement
+male,group A,some college,free/reduced,none,28,23,19,70,23.333333333333332,Needs Improvement
+male,group C,associate's degree,standard,none,47,37,35,119,39.666666666666664,Needs Improvement
+female,group B,some high school,free/reduced,none,24,38,27,89,29.666666666666668,Needs Improvement
+female,group D,some high school,free/reduced,none,27,34,32,93,31.0,Needs Improvement
+male,group B,some college,free/reduced,none,41,39,34,114,38.0,Needs Improvement
+female,group D,associate's degree,free/reduced,none,26,31,38,95,31.666666666666668,Needs Improvement
+female,group D,bachelor's degree,free/reduced,none,29,41,47,117,39.0,Needs Improvement
+female,group C,some college,free/reduced,none,32,39,33,104,34.666666666666664,Needs Improvement
+male,group B,high school,free/reduced,none,30,24,15,69,23.0,Needs Improvement
+female,group C,high school,standard,none,29,29,30,88,29.333333333333332,Needs Improvement
+female,group C,some high school,free/reduced,completed,29,40,44,113,37.666666666666664,Needs Improvement
+male,group D,high school,standard,none,46,34,36,116,38.666666666666664,Needs Improvement
+female,group B,some college,standard,none,19,38,32,89,29.666666666666668,Needs Improvement
+male,group A,some high school,standard,none,51,31,36,118,39.333333333333336,Needs Improvement
+female,group B,high school,free/reduced,completed,23,44,36,103,34.333333333333336,Needs Improvement
+male,group D,bachelor's degree,free/reduced,completed,39,42,38,119,39.666666666666664,Needs Improvement
+female,group E,some high school,free/reduced,none,32,34,38,104,34.666666666666664,Needs Improvement
+male,group B,high school,free/reduced,none,36,29,27,92,30.666666666666668,Needs Improvement
+female,group B,high school,free/reduced,none,8,24,23,55,18.333333333333332,Needs Improvement
