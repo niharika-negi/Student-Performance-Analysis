@@ -120,10 +120,3 @@ The dataset contains students' demographic information, parental education, lunc
 ## 👩‍💻 Author
 
 **Niharika Negi**
-
-MCA – Artificial Intelligence & Machine Learning
-
-Interested in Data Analytics, Python, Machine Learning, and Data Visualization.
-
----
-⭐ If you find this project interesting, feel free to explore the repository!
